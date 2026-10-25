@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to the uiconfig monorepo: [repalash/uiconfig.js/packages/uiconfig-tweakpane](https://github.com/repalash/uiconfig.js/tree/master/packages/uiconfig-tweakpane). The npm package name stays `uiconfig-tweakpane`. This repository is archived: open issues and pull requests in [repalash/uiconfig.js](https://github.com/repalash/uiconfig.js).
+
 # UiConfig Tweakpane
 
 [![NPM Package](https://img.shields.io/npm/v/uiconfig-tweakpane.svg)](https://www.npmjs.com/package/uiconfig-tweakpane)
